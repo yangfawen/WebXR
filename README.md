@@ -2,8 +2,11 @@
 # 一、注册RAVVAR帐号
 ## 1.1帐号注册
 登录【[RAVVAR - AR （增强现实）自主创作](https://www.ravvar.cn)】点击右上角“制作AR”按钮开始注册帐号。
-## 1.2WebAR/3D在线编辑器内测申请
-登录【[RAVVAR WebAR/3D创意制作平台内测申请](https://labs.darseek.com/apply)】申请。
+## 1.2WebAR/3D在线编辑器申请
+长按识别下方小程序码并提交信息申请
+- - - -
+![](img/apply.png)
+- - - -
 
 # 二、WebAR/3D在线编辑器介绍
 ## 2.1概述
@@ -47,8 +50,7 @@
 - - - -
 ![](img/Phoenix_QR.png)
 - - - -
-**WebAR场景**：扫描如下二维码后再扫描识别图体验，识别图为淳萃官网Banner，地址为：https://www.ultradoux.com.cn/
-也可以直接获取识别图：https://github.com/yangfawen/yangfawen.github.io/tree/master/Samples/WebAR/Marker
+**WebAR场景**：扫描如下二维码后再扫描识别图体验，获取识别图：https://github.com/yangfawen/yangfawen.github.io/tree/master/Samples/WebAR/Marker
 - - - -
 ![](img/DOUX_QR.png)
 
